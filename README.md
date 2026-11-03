@@ -25,3 +25,4 @@ avi-portfolio/
 - Colors: `:root { ... }` at the top of `css/style.css`
 - Photo: replace `assets/avatar.jpg` (keep the same name)
 - LinkedIn: search `LinkedIn` in `index.html` and replace `href="#"`
+# Avi-Kundu-Portfolio
